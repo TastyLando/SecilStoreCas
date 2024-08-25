@@ -1,0 +1,16 @@
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\bin\Debug\net8.0\ConfigLib.deps.json
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\bin\Debug\net8.0\ConfigLib.dll
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\bin\Debug\net8.0\ConfigLib.pdb
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.csproj.CopyComplete
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.dll
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\refint\ConfigLib.dll
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.pdb
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ref\ConfigLib.dll
+C:\Users\Yasin\source\repos\SecilCase\ConfigLib\obj\Debug\net8.0\ConfigLib.sourcelink.json
