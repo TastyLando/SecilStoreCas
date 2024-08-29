@@ -1,4 +1,4 @@
-# SecilStoreCas
+# SecilStoreCase
  BackEnd Task
 This project is a .NET 8-based dynamic configuration library designed to provide seamless access to configuration keys typically stored in web.config, app.config, appsettings.json, or similar files. The library allows configurations to be stored in various storage solutions (Mongo) and accessed dynamically without requiring application restarts or deployments.
 
